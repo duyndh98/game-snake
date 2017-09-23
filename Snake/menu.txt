@@ -1,0 +1,33 @@
+	INTRO SCENE
+
+	MAIN MENU
+		(continue)
+		new
+		options
+		highscores
+		credits
+		quit
+
+	PAUSE MENU
+		continue
+		restart
+		menu
+
+	NEW MENU
+		level:	1..10
+		map:	1..
+		->play
+		menu
+
+	OPTIONS
+		color
+z		sound
+		menu
+
+	HIGHSCORES
+		...
+		menu
+
+	CREDITS
+		...
+		menu
